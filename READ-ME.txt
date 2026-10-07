@@ -1,0 +1,11 @@
+Este portfólio envolve a apresentação de dados de um projeto de análise de dados aplicados à pesquisa em oceanografia geológica. O projeto envolve 3 arquivos até o momento:
+
+- READ-ME: Este arquivo, responsável pelas orientações
+- SANBIF_Portifólio: Resumo do projeto em formato de CANVAS simplificado, contendo área de estudo, metodologia, resultado e conclusões. 
+- Análise_de_Dados_Sedimentologicos - Portifolio.ipynb: Códigos para a geração das imagens. 
+
+Os dados do arquivo .csv não podem ser compartilhados antes da publicação do artigo, que está submetido e aguardando a etapa de publicação. Além disso, a etapa de análise crítica será inserida como link neste portfólio após a publicação do artigo científico.  
+
+Caso tenha interesse em oceanografia geológica ou visualização e interpretação de dados oceanográficos, segue meu contato:
+- rodrigobapbarros@gmail.com
+- in/rodrigobapbarros
